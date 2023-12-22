@@ -1,14 +1,14 @@
 # afk-bot
 ## AFK Mouse Mover
 
-This script is an improved version of a code from a YouTube tutorial. It is designed to keep the mouse moving, preventing your system from going into idle mode. 
+This script is an improved version of a code from a YouTube tutorial. It is designed to keep the mouse moving, preventing your system from going into idle mode.\n
 To exit the script, press and hold the 'f' key.
 
 ### How to Use
 
 1. Make sure you have Python installed on your system.
 
-2. Install the required library using the following command:
+2. Install the required library:
    ```bash
    pip install pyautogui keyboard
 
