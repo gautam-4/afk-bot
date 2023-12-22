@@ -1,7 +1,7 @@
 # afk-bot
 ## AFK Mouse Mover
 
-This script is an improved version of a code from a YouTube tutorial. It is designed to keep the mouse moving, preventing your system from going into idle mode.\n
+This script is an improved version of a code from a YouTube tutorial. It is designed to keep the mouse moving, preventing your system from going into idle mode.  
 To exit the script, press and hold the 'f' key.
 
 ### How to Use
