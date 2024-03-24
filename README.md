@@ -14,6 +14,6 @@ To exit the script, press and hold the 'f' key.
 
 3. Run the script:
    ```bash
-   python afk_mouse_mover.py
+   python afk_bot.py
 
 4. To exit the script, press and hold the 'f' key. 
