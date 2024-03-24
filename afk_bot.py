@@ -1,4 +1,3 @@
-#improved version of a code from a yt tutorial
 #run the script to keep mouse moving. To exit press and hold 'f'
 import pyautogui as pag
 import random
